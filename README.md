@@ -1,4 +1,4 @@
-# MEC325 Project Repository — Advanced Engineering Design
+# MEC325 Project Repository — Engineering Design
 
 This repository contains all documentation, CAD designs, renders (excluding oversized files), milestone submissions, planning deliverables, and final reports for our MEC325 group project at Toronto Metropolitan University. The project followed a structured, iterative engineering design process culminating in a user-centered mechanical prototype.
 
