@@ -27,13 +27,12 @@ The project files are grouped into the following main folders:
 - **`milestone1/`** — Milestone 1 submission: sketches (SKB), initial PRS, and concept documentation.
 - **`milestone2/`** — Milestone 2 submission: updated PDS, engineering analysis (DCR), and final milestone report files.
 - **`final_reports/`** — Official finalized documentation including DCR, PRS, PDS, SKB, WDS, and final report templates.
-- **`delete_backups/`** — Older or backup versions of working documents and templates.
 
 ### `cad/final_parts/`
 - SolidWorks part models (`.SLDPRT`) from our 90% complete Frame v4 design, including components like joints, handlebars, and support members.
 
 ### `renders/`
-- Visual renderings and screenshots (`.png`) of the final concept. *Note: the original `.svp` render project file was excluded due to GitHub's file size limit (100MB).*
+- Visual renderings and screenshots (`.png`) of the final concept. 
 
 
 ---
@@ -49,17 +48,18 @@ The project was structured around **three major design loops**, each aimed at re
 - Outlined key **requirements** and drafted an initial **Product Requirement Specification (PRS)** and **design brief**.
 - Output: Divergent thinking phase. Explored multiple broad ideas and formed a foundational direction.
 
-### 🔄 Loop 2: Concept Integration & CAD Progress
+### 🔄 Loop 2: Concept Integration & Human factor analysis
 - Narrowed down concepts based on Loop 1 evaluation.
+- Conducted Human Factor Analysis using situated use ases, Personas, Exclusion calculator
 - Began early **SolidWorks modeling** of individual parts for the preferred concept, focusing on form and fit.
 - Created an **Integrated Concept Document** where key design ideas were synthesized into one cohesive concept.
 - Updated PRS and produced the first version of the **Product Design Specification (PDS)**.
 - Built a working CAD prototype (~60–70% complete), including frame, axle, and joints.
 - Output: Converged on a primary design, validated through modeling and alignment with original requirements.
 
-### 🔄 Loop 3: Finalization & Justification
+### 🔄 Loop 3: Finalization & Justification & Cad work
 - Performed **detailed engineering calculations**: load-bearing, material strength, stress tolerance (compiled in DCR).
-- Completed **Frame v4 (90% final CAD)** with dimensional constraints and interlocking systems modeled.
+- Completed **Frame v6 (90% final CAD)** with dimensional constraints and interlocking systems modeled.
 - Delivered final documentation: updated PRS, PDS, **Design Calculation Report (DCR)**, and **Final Report**.
 - Prepared **rendered visuals** to showcase design to stakeholders.
 - Final milestone submission compiled all deliverables with justification for every mechanical and usability choice.
